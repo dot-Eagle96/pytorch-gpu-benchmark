@@ -1,0 +1,14 @@
+benchmark start : 2024/04/12 16:01:42
+system_configs
+
+uname_result(system='Windows', node='REDACTED', release='11', version='10.0.22631', machine='AMD64')
+                     scpufreq(current=2200.0, min=0.0, max=2200.0)
+                    cpu_count: 32
+                    memory_available: 19633184768
+gpu_configs
+
+Number of GPUs on current device : 1
+CUDA Version : 12.1
+Cudnn Version : 8801
+Device Name : NVIDIA RTX 5000 Ada Generation Laptop GPU
+benchmark end : 2024/04/12 16:58:34
